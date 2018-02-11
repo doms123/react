@@ -1,0 +1,14 @@
+ul {
+    overflow: hidden;
+}
+
+ul li {
+    float: left;
+    list-style: none;
+    margin: 0 20px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #333;
+}
